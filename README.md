@@ -111,6 +111,8 @@ The Area Under the Curve (AUC) is a crucial measure of the model's ability to di
 * MobileNetV2 (AUC = $\mathbf{0.93}$): Delivers excellent diagnostic performance, confirming high sensitivity and specificity across all thresholds.
 * Custom CNN (AUC = $\mathbf{0.87}$): Performs well but falls significantly below MobileNetV2, though it still shows solid discrimination ability.
 
+![ROC GRAPH]("C:\Users\Admin\OneDrive\Documents\Tuberculosis_project\Image_Classification\ROC graph\Screenshot (1129).png")
+
 ## Conclusion
 The MobileNetV2 model significantly outperformed the Custom CNN in overall accuracy, precision, and recall on the test set. Its high recall is particularly valuable for this medical application.
 
